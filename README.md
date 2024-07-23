@@ -30,6 +30,9 @@ DISCORD MASS DM
 </div>
 ---------------------------------------
 
+![image](https://github.com/user-attachments/assets/8de9a48b-2b42-4314-b862-a9852b115c58)
+
+
 ### How to use
 
 * Download Python
